@@ -1,0 +1,31 @@
+{
+  "accessories": [
+    {
+      "id": 1,
+      "category": "Travel & Comfort",
+      "name": "GPS Navigation System",
+      "price": 120.99,
+      "stock": 50,
+      "description": "High-accuracy GPS navigation system with real-time traffic updates.",
+      "image": "https://example.com/gps.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Safety & Security",
+      "name": "Dash Cam",
+      "price": 89.99,
+      "stock": 30,
+      "description": "HD dash cam with night vision and motion detection.",
+      "image": "https://example.com/dashcam.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Child & Pet Accessories",
+      "name": "Child Safety Car Seat",
+      "price": 150.50,
+      "stock": 20,
+      "description": "Comfortable and secure child car seat suitable for ages 1-5.",
+      "image": "https://example.com/childseat.jpg"
+    }
+  ]
+}
